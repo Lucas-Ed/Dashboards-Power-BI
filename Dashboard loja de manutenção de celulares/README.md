@@ -8,7 +8,7 @@ assim como analisar as performance das vendas de cada produto e a lucratividade<
 <p align="center">Esse projeto tem 2 abas uma capa e o dashboard assim como estão nas imagens abaixo:</p>
 
 <p align="center">
-  <img src="https://ik.imagekit.io/pacjwk85yz6/3_tuMEfZIFK.png">
+  <img src="https://ik.imagekit.io/pacjwk85yz6/1_5mZQxk1c9.png">
 </p>
 
 
