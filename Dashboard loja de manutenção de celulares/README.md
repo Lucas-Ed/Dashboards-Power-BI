@@ -1,4 +1,4 @@
-<h1 align="center">Dashboard Loja de mautenção de celulares Iphone cell</h1>
+<h1 align="center">Dashboard Loja de manutenção de celulares Iphone cell</h1>
 
 <p align="center">Uma breve descrição:</p>
 
