@@ -1,4 +1,4 @@
-### Esse Dashboard feito com PowerBI é para analisar o fluxo de caixa de empresas os dados usados no projeto é fictício, a base de dados é buscada em um arquivo de excel.
+### Esse Dashboard feito com PowerBI é para analisar o fluxo de caixa de empresas, os dados usados no projeto é fictício, a base de dados é buscada em um arquivo de excel.
 ### Abaixo estão as imagens da aparência do Dashboard:
 
 
