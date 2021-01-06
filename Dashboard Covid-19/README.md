@@ -43,7 +43,13 @@
     <img src="svg/6.png" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>
 
- 
+ ### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [PowerBI](https://powerbi.microsoft.com/pt-br/)
+- [PPTX](https://www.office.com/launch/powerpoint)
+- [EXCEL](https://office.live.com/start/Excel.aspx?ui=pt-BR)
 
 
 
