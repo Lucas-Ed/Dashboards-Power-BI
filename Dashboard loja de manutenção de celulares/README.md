@@ -7,15 +7,16 @@ assim como analisar as performance das vendas de cada produto e a lucratividade<
 
 <p align="center">Esse projeto tem 2 abas uma capa e o dashboard assim como estão nas imagens abaixo:</p>
 
-<p align="center">
-  <img src="https://ik.imagekit.io/pacjwk85yz6/1_5mZQxk1c9.png">
-</p>
+<a href="#">
+    <img src="svg/1.png" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
 
 
-<p align="center">
-  <img src="https://ik.imagekit.io/pacjwk85yz6/2_lGLPjaMB4.png">
-</p>
+
+  <a href="#">
+    <img src="svg/2.png" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>
 
 
 <p align="center">A base de dados que foi usada é ficticia e veio do Excel</p>
